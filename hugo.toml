@@ -1,8 +1,18 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ZhaoZY369.github.io/my-secret-blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-
+title = 'My Secret Blog'
 theme = "PaperMod"
+publishDir = "public"
+
+# 告诉 Hugo robots.txt 是合法的输出格式
+[outputFormats.RobotsTXT]
+mediaType = "text/plain"
+baseName = "robots"
+isPlainText = true
+notAlternative = true
+
+[outputs]
+home = ["HTML", "RSS", "RobotsTXT"]
 
 [params]
   ShowReadingTime = true
@@ -19,5 +29,3 @@ theme = "PaperMod"
     disable = true
   [privacy.twitter]
     disable = true
-
-# trigger deploy
