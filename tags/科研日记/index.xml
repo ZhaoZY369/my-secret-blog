@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>科研日记 on My Secret Blog</title><link>https://ZhaoZY369.github.io/my-secret-blog/tags/%E7%A7%91%E7%A0%94%E6%97%A5%E8%AE%B0/</link><description>Recent content in 科研日记 on My Secret Blog</description><generator>Hugo -- 0.147.1</generator><language>en-us</language><lastBuildDate>Fri, 02 May 2025 18:23:00 +0800</lastBuildDate><atom:link href="https://ZhaoZY369.github.io/my-secret-blog/tags/%E7%A7%91%E7%A0%94%E6%97%A5%E8%AE%B0/index.xml" rel="self" type="application/rss+xml"/><item><title>First Blog</title><link>https://ZhaoZY369.github.io/my-secret-blog/posts/first-blog/</link><pubDate>Fri, 02 May 2025 18:23:00 +0800</pubDate><guid>https://ZhaoZY369.github.io/my-secret-blog/posts/first-blog/</guid><description>&lt;h2 id="-今日目标">📌 今日目标&lt;/h2>
+&lt;ul>
+&lt;li>阅读某某文献，理解其中的设计原理&lt;/li>
+&lt;li>整理前期实验数据，尝试使用 X 方法分析&lt;/li>
+&lt;li>思考如何改进 XX 部分的参数设置&lt;/li>
+&lt;/ul>
+&lt;p>+++&lt;/p>
+&lt;h2 id="-实际进展">🔍 实际进展&lt;/h2>
+&lt;ul>
+&lt;li>阅读并记录了《XXX》的要点，作者提出了&amp;hellip;&amp;hellip;&lt;/li>
+&lt;li>数据预处理完成，初步尝试用了 Y 方法拟合，效果如下：
+&lt;blockquote>
+&lt;p>图像/表格链接（后续可以 Hugo 加图）&lt;/p>&lt;/blockquote>
+&lt;/li>
+&lt;li>发现原先设置的参数 z=1.2 效果不稳定，打算明天测试 z ∈ [0.8, 1.5]&lt;/li>
+&lt;/ul>
+&lt;p>+++&lt;/p>
+&lt;h2 id="-思考与问题">🧠 思考与问题&lt;/h2>
+&lt;ul>
+&lt;li>文献中的假设条件和我的实验环境不完全一致，需要进一步验证其适用性&lt;/li>
+&lt;li>是否考虑改用更少参数的简化模型？这样可能更易解释&lt;/li>
+&lt;/ul>
+&lt;p>+++&lt;/p>
+&lt;h2 id="-明日计划">🗓 明日计划&lt;/h2>
+&lt;ul>
+&lt;li>调整 z 参数并重新拟合&lt;/li>
+&lt;li>找找是否有该类实验的 benchmark 数据集用于对照&lt;/li>
+&lt;/ul>
+&lt;p>+++&lt;/p>
+&lt;h2 id="-简短感悟">💬 简短感悟&lt;/h2>
+&lt;p>今天调代码调到有点烦，幸好坚持下来了。保持节奏，别急于求成。
+这个是我的 md 文件&lt;/p></description></item></channel></rss>
