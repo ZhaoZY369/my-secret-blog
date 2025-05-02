@@ -2,6 +2,7 @@
 date = '2025-05-02T18:23:00+08:00'
 draft = false
 title = 'First Blog'
+tags = ["科研日记", "实验设计"]
 +++
 
 ## 📌 今日目标
